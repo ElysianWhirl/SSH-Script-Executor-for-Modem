@@ -3,7 +3,7 @@
 # SSH Script Executor for Modem
 
 ## Deskripsi
-Skrip ini memberikan fungsionalitas untuk menjalankan skrip (`watchloop.sh`) secara remote pada modem melalui SSH.
+Skrip ini memberikan fungsionalitas untuk menjalankan skrip (`watchloop.sh`) secara remote pada modem melalui SSH. Skrip ini telah diuji pada STB B860H V2 dan modem HSAIRPO CPE200.
 
 ## Kredensial
 - **Username SSH**: `username`
@@ -23,3 +23,4 @@ Fungsi ini memfasilitasi eksekusi skrip pada modem melalui SSH dengan penggunaan
 
 ## Penggunaan
 Skrip ini dapat dieksekusi untuk menjalankan skrip pada modem secara remote.
+
