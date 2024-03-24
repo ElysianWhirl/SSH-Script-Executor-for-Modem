@@ -6,10 +6,10 @@
 Skrip ini memberikan fungsionalitas untuk menjalankan skrip (`watchloop.sh`) secara remote pada modem melalui SSH.
 
 ## Kredensial
-- **Username SSH**: `root`
-- **Password SSH**: `admin`
-- **IP Modem**: `192.168.10.254`
-- **Path Skrip**: `/root/watchloop.sh`
+- **Username SSH**: `username`
+- **Password SSH**: `password`
+- **IP Modem**: `ip_your_modem`
+- **Path Skrip**: `/path/to/watchloop.sh`
 
 ## Fungsi `run_script_on_modem`
 Fungsi ini memfasilitasi eksekusi skrip pada modem melalui SSH dengan penggunaan kredensial yang disediakan.
